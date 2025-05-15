@@ -9,8 +9,9 @@ print("hola 2")
 
 print(f"Tu nombre {nombre} es bastante feo a decir verdad")
 
-print("¿como estas?, {nombre} ")
+print("¿como estas?")
 
 #Pregunta de edad
 edad = input("¿Cuantos años tienes?")
 print(f"Hola {nombre}, tienes {edad} años")
+
