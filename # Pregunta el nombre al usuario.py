@@ -1,3 +1,4 @@
+
 # Pregunta el nombre al usuario
 nombre = input("¿como te llamas? ")
 
@@ -6,4 +7,4 @@ print(f"¡Hola, {nombre}!")
 
 print("hola 2")
 
-print("¿como estas?, {nombre}")
+print
