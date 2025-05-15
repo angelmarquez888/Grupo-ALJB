@@ -7,6 +7,8 @@ print(f"¡Hola, {nombre}!")
 
 print("hola 2")
 
+print(f"Tu nombre {nombre} es bastante feo a decir verdad")
+
 print("¿como estas?, {nombre} ")
 
 #Pregunta de edad
